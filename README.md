@@ -18,21 +18,6 @@ The application of LLMs in the legal domain presents unique challenges and oppor
 - **Accuracy**: LLMs enhance the precision of legal decision-making by processing and analyzing complex legal language effectively.
 - **Adaptability**: By integrating different reasoning paradigms, we provide a versatile and nuanced approach to legal analysis.
 
-## Installation
-
-To get started with this project, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/legal-reasoning-llms.git
-   cd legal-reasoning-llms
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. **Configure API Keys**: Ensure you have access to the necessary LLMs, such as OpenAI's GPT models. Set your API keys in a secure configuration file or environment variables.
